@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/content/registerPage.jsp=UTF-8
+encoding//src/org/fkit/controller/MainController.java=UTF-8
+encoding//src/org/fkit/controller/PoisonCurrentController.java=UTF-8
+encoding//src/org/fkit/controller/UserController.java=UTF-8
+encoding//src/org/fkit/service/UserService.java=UTF-8
